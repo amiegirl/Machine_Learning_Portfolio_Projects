@@ -3,12 +3,12 @@ This app is designed to make ordering meals from local restaurants in Lagos, Nig
 This app recommends products to users and estimates the real-time delivery of products.
 
 # Problem Statement
-An inaccurate delivery time and the absence of product suggestions can lead to customer dissatisfaction and to low sales for businesses.
+An inaccurate delivery time and the absence of product suggestions can lead to customer dissatisfaction and low sales for businesses.
 
 # Objectives
-This app aim to provide a potential solution to estimate delivery in real time and offer tailored meal recommendations to enhace user satisfaction.
+This app aims to provide a potential solution to estimate delivery in real time and offer tailored meal recommendations to enhance user satisfaction.
 
-The restaurant and product information was gotten by web scraping. other information were generated randomly. The data was scrutinized to ensure it made logical sense.
+The restaurant and product information was got by web scraping. Other information was generated randomly. The data was scrutinized to ensure it made logical sense.
 
 # Featured Techniques
 * EDA
@@ -56,8 +56,7 @@ The restaurant and product information was gotten by web scraping. other informa
 ### **We used cosine similarity from *product description* and *product type* to recommend product to existing and new users. Used *product rating* to recommend best products and places to users.**
 
 ## Sample Result of a new user
-![image](https://github.com/amiegirl/Machine_Learning_Portfolio_Projects/assets/81017006/aacde60f-76e1-434a-a27d-84c2e9aecec4)
-
+![image](https://github.com/amiegirl/Machine_Learning_Portfolio_Projects/assets/81017006/e9e01360-e743-45fc-98db-304dcfb50a7e)<br><hb>
 
 ## Sample Result of an existing user
 ![image](https://github.com/amiegirl/Machine_Learning_Portfolio_Projects/assets/81017006/634591b4-fad2-46e8-94bd-733a47adcc9c)
