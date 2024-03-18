@@ -8,6 +8,8 @@ An inaccurate delivery time and the absence of product suggestions can lead to c
 # Objectives
 This app aims to provide a potential solution to estimate delivery in real time and offer tailored meal recommendations to enhance user satisfaction.
 
+# Data Source
+
 The restaurant and product information was got by web scraping. Other information was generated randomly. The data was scrutinized to ensure it made logical sense.
 
 # Featured Techniques
